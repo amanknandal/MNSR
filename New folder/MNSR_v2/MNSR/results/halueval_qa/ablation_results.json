@@ -1,0 +1,117 @@
+{
+    "Full MNSR": {
+        "baseline_accuracy": 0.64,
+        "mnsr_accuracy": 0.69,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.13,
+        "avg_reflection_depth": 0.34,
+        "avg_confidence": 0.8881,
+        "validation_success_rate": 1.0,
+        "memory_retrieval_rate": 0.0,
+        "correction_success_rate": 0.7826,
+        "action_counts": {
+            "REASONING_REPAIR": 0,
+            "ANSWER_REPAIR": 26,
+            "MEMORY_REFLECTION": 0,
+            "SELF_CRITIQUE": 0,
+            "SELF_VERIFY": 0,
+            "DECOMPOSE": 0,
+            "REPLAN": 0,
+            "MULTI_PATH_REASONING": 0,
+            "BACKTRACK": 8
+        }
+    },
+    "- Validator": {
+        "baseline_accuracy": 0.64,
+        "mnsr_accuracy": 0.69,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.0,
+        "avg_reflection_depth": 0.0,
+        "avg_confidence": 0.9,
+        "validation_success_rate": 1.0,
+        "memory_retrieval_rate": 0.0,
+        "correction_success_rate": 0.0,
+        "action_counts": {
+            "REASONING_REPAIR": 0,
+            "ANSWER_REPAIR": 0,
+            "MEMORY_REFLECTION": 0,
+            "SELF_CRITIQUE": 0,
+            "SELF_VERIFY": 0,
+            "DECOMPOSE": 0,
+            "REPLAN": 0,
+            "MULTI_PATH_REASONING": 0,
+            "BACKTRACK": 0
+        }
+    },
+    "- Memory": {
+        "baseline_accuracy": 0.64,
+        "mnsr_accuracy": 0.69,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.13,
+        "avg_reflection_depth": 0.34,
+        "avg_confidence": 0.8881,
+        "validation_success_rate": 1.0,
+        "memory_retrieval_rate": 0.0,
+        "correction_success_rate": 0.7826,
+        "action_counts": {
+            "REASONING_REPAIR": 0,
+            "ANSWER_REPAIR": 26,
+            "MEMORY_REFLECTION": 0,
+            "SELF_CRITIQUE": 0,
+            "SELF_VERIFY": 0,
+            "DECOMPOSE": 0,
+            "REPLAN": 0,
+            "MULTI_PATH_REASONING": 0,
+            "BACKTRACK": 8
+        }
+    },
+    "- Controller": {
+        "baseline_accuracy": 0.64,
+        "mnsr_accuracy": 0.69,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.0,
+        "avg_reflection_depth": 0.0,
+        "avg_confidence": 0.8636,
+        "validation_success_rate": 1.0,
+        "memory_retrieval_rate": 0.0,
+        "correction_success_rate": 0.0,
+        "action_counts": {
+            "REASONING_REPAIR": 0,
+            "ANSWER_REPAIR": 0,
+            "MEMORY_REFLECTION": 0,
+            "SELF_CRITIQUE": 0,
+            "SELF_VERIFY": 0,
+            "DECOMPOSE": 0,
+            "REPLAN": 0,
+            "MULTI_PATH_REASONING": 0,
+            "BACKTRACK": 0
+        }
+    },
+    "- Dynamic Confidence": {
+        "baseline_accuracy": 0.64,
+        "mnsr_accuracy": 0.69,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.08,
+        "avg_reflection_depth": 0.31,
+        "avg_confidence": 0.8,
+        "validation_success_rate": 1.0,
+        "memory_retrieval_rate": 0.0,
+        "correction_success_rate": 0.7826,
+        "action_counts": {
+            "REASONING_REPAIR": 0,
+            "ANSWER_REPAIR": 23,
+            "MEMORY_REFLECTION": 0,
+            "SELF_CRITIQUE": 0,
+            "SELF_VERIFY": 0,
+            "DECOMPOSE": 0,
+            "REPLAN": 0,
+            "MULTI_PATH_REASONING": 0,
+            "BACKTRACK": 8
+        }
+    }
+}

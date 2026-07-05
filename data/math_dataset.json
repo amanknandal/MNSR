@@ -6,5 +6,217 @@
     {
         "question": "What is 12 multiplied by 11?",
         "answer": "132"
+    },
+    {
+        "question": "Sarah has 20 candies and shares them equally among 4 friends. How many candies does each friend get?",
+        "answer": "5"
+    },
+    {
+        "question": "What is 145 minus 67?",
+        "answer": "78"
+    },
+    {
+        "question": "A train travels at a speed of 60 miles per hour. How far will it travel in 3.5 hours?",
+        "answer": "210"
+    },
+    {
+        "question": "What is the square root of 225?",
+        "answer": "15"
+    },
+    {
+        "question": "If a triangle has a base of 8 cm and a height of 5 cm, what is its area in square centimeters?",
+        "answer": "20"
+    },
+    {
+        "question": "What is 15% of 120?",
+        "answer": "18"
+    },
+    {
+        "question": "Divide 560 by 8.",
+        "answer": "70"
+    },
+    {
+        "question": "A jacket originally costing $80 is on sale for 25% off. What is the sale price?",
+        "answer": "60"
+    },
+    {
+        "question": "What is the value of x in the equation 3x + 7 = 22?",
+        "answer": "5"
+    },
+    {
+        "question": "If a rectangle has a length of 12 meters and a width of 7 meters, what is its perimeter?",
+        "answer": "38"
+    },
+    {
+        "question": "What is 9 cubed?",
+        "answer": "729"
+    },
+    {
+        "question": "A baker makes 12 dozen cookies. How many cookies did they bake in total?",
+        "answer": "144"
+    },
+    {
+        "question": "What is the sum of the angles in a standard quadrilateral?",
+        "answer": "360"
+    },
+    {
+        "question": "If you flip a fair coin three times, what is the total number of possible outcomes?",
+        "answer": "8"
+    },
+    {
+        "question": "Solve for y: 5y - 12 = 3y + 4.",
+        "answer": "8"
+    },
+    {
+        "question": "What is 45% of 200?",
+        "answer": "90"
+    },
+    {
+        "question": "A runner finishes a 10-kilometer race in 50 minutes. What was their average speed in kilometers per minute?",
+        "answer": "0.2"
+    },
+    {
+        "question": "What is 84 divided by 7?",
+        "answer": "12"
+    },
+    {
+        "question": "If a box contains 6 red marbles, 4 blue marbles, and 5 green marbles, what is the total number of marbles?",
+        "answer": "15"
+    },
+    {
+        "question": "What is the next number in the sequence: 2, 4, 8, 16, 32...?",
+        "answer": "64"
+    },
+    {
+        "question": "What is 13 multiplied by 13?",
+        "answer": "169"
+    },
+    {
+        "question": "A car tank holds 15 gallons of gas. If gas costs $3.40 per gallon, how much does it cost to fill the tank completely?",
+        "answer": "51"
+    },
+    {
+        "question": "What is 892 minus 415?",
+        "answer": "477"
+    },
+    {
+        "question": "If a map scale is 1 inch = 50 miles, how many miles are represented by 4.5 inches?",
+        "answer": "225"
+    },
+    {
+        "question": "What is the least common multiple (LCM) of 6 and 8?",
+        "answer": "24"
+    },
+    {
+        "question": "What is the greatest common divisor (GCD) of 36 and 54?",
+        "answer": "18"
+    },
+    {
+        "question": "If x = 4 and y = 7, what is the value of 2x + 3y?",
+        "answer": "29"
+    },
+    {
+        "question": "A store owner buys an item for $40 and sells it for $60. What is the percentage profit?",
+        "answer": "50"
+    },
+    {
+        "question": "What is 7 multiplied by 9, then added to 15?",
+        "answer": "78"
+    },
+    {
+        "question": "If an alarm clock rings every 15 minutes, how many times will it ring in 3 hours?",
+        "answer": "12"
+    },
+    {
+        "question": "What is 1000 divided by 25?",
+        "answer": "40"
+    },
+    {
+        "question": "A library has 400 books. If 15% of them are checked out, how many books are still in the library?",
+        "answer": "340"
+    },
+    {
+        "question": "What is the square of 19?",
+        "answer": "361"
+    },
+    {
+        "question": "Solve for x: x / 4 = 12.",
+        "answer": "48"
+    },
+    {
+        "question": "If a pool fills at a rate of 20 gallons per minute, how many gallons will it hold after 45 minutes?",
+        "answer": "900"
+    },
+    {
+        "question": "What is 673 plus 289?",
+        "answer": "962"
+    },
+    {
+        "question": "What is the value of 2 to the power of 6?",
+        "answer": "64"
+    },
+    {
+        "question": "If 3 pencils cost $1.50, how much do 12 pencils cost?",
+        "answer": "6"
+    },
+    {
+        "question": "What is the average of the numbers 10, 20, 30, 40, and 50?",
+        "answer": "30"
+    },
+    {
+        "question": "A fence encloses a square yard with a side length of 15 feet. What is the total length of the fence?",
+        "answer": "60"
+    },
+    {
+        "question": "What is 180 minus 74?",
+        "answer": "106"
+    },
+    {
+        "question": "If a clock shows 3:15, what is the measure of the smaller angle between the hour and minute hands in degrees?",
+        "answer": "7.5"
+    },
+    {
+        "question": "What is 35 multiplied by 4?",
+        "answer": "140"
+    },
+    {
+        "question": "If a typist can type 60 words per minute, how many words can they type in 15 minutes?",
+        "answer": "900"
+    },
+    {
+        "question": "What is the value of x if 4x - 8 = 0?",
+        "answer": "2"
+    },
+    {
+        "question": "A student scored 80, 85, and 90 on three tests. What score do they need on the fourth test to have an average of 87?",
+        "answer": "93"
+    },
+    {
+        "question": "What is 75% of 400?",
+        "answer": "300"
+    },
+    {
+        "question": "How many seconds are there in 2.5 minutes?",
+        "answer": "150"
+    },
+    {
+        "question": "What is 144 divided by 12?",
+        "answer": "12"
+    },
+    {
+        "question": "If a recipe calls for 2.5 cups of flour to make 1 batch of cookies, how many cups are needed for 4 batches?",
+        "answer": "10"
+    },
+    {
+        "question": "What is 1050 minus 425?",
+        "answer": "625"
+    },
+    {
+        "question": "What is the area of a square with a side length of 9 inches?",
+        "answer": "81"
+    },
+    {
+        "question": "If you buy 4 shirts at $25 each and use a $10 discount coupon, what is your total bill?",
+        "answer": "90"
     }
 ]

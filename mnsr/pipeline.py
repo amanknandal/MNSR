@@ -51,7 +51,7 @@ class MNSRPipeline:
         if final_report["valid"]:
             self.memory.add(
                 question=question,
-                reasoning=result["reasoning"], 
+                reasoning=state.reasoning, 
                 answer=state.final_answer,
                 errors=final_report["errors"],
                 corrected_reasoning=state.reasoning, 

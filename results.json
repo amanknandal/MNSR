@@ -1,0 +1,642 @@
+[
+    {
+        "question": "If John has 5 apples and buys 3 more, how many does he have?",
+        "gold": "8",
+        "baseline_answer": "8",
+        "baseline_correct": true,
+        "baseline_latency_sec": 20.284,
+        "mnsr_answer": "8",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 21.848,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 12 multiplied by 11?",
+        "gold": "132",
+        "baseline_answer": "132.",
+        "baseline_correct": false,
+        "baseline_latency_sec": 10.292,
+        "mnsr_answer": "132",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 10.134,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "Sarah has 20 candies and shares them equally among 4 friends. How many candies does each friend get?",
+        "gold": "5",
+        "baseline_answer": "5",
+        "baseline_correct": true,
+        "baseline_latency_sec": 11.094,
+        "mnsr_answer": "5",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 11.404,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 145 minus 67?",
+        "gold": "78",
+        "baseline_answer": "78",
+        "baseline_correct": true,
+        "baseline_latency_sec": 26.868,
+        "mnsr_answer": "78",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 36.22,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "A train travels at a speed of 60 miles per hour. How far will it travel in 3.5 hours?",
+        "gold": "210",
+        "baseline_answer": "60",
+        "baseline_correct": false,
+        "baseline_latency_sec": 20.579,
+        "mnsr_answer": "60",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 16.117,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the square root of 225?",
+        "gold": "15",
+        "baseline_answer": "15",
+        "baseline_correct": true,
+        "baseline_latency_sec": 35.652,
+        "mnsr_answer": "15",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 22.945,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If a triangle has a base of 8 cm and a height of 5 cm, what is its area in square centimeters?",
+        "gold": "20",
+        "baseline_answer": "20",
+        "baseline_correct": true,
+        "baseline_latency_sec": 13.556,
+        "mnsr_answer": "20",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 10.364,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 15% of 120?",
+        "gold": "18",
+        "baseline_answer": "18.",
+        "baseline_correct": false,
+        "baseline_latency_sec": 10.557,
+        "mnsr_answer": "18.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 13.476,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "Divide 560 by 8.",
+        "gold": "70",
+        "baseline_answer": "70",
+        "baseline_correct": true,
+        "baseline_latency_sec": 22.663,
+        "mnsr_answer": "70",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 53.471,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "A jacket originally costing $80 is on sale for 25% off. What is the sale price?",
+        "gold": "60",
+        "baseline_answer": "25",
+        "baseline_correct": false,
+        "baseline_latency_sec": 15.402,
+        "mnsr_answer": "25",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 14.722,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the value of x in the equation 3x + 7 = 22?",
+        "gold": "5",
+        "baseline_answer": "5.",
+        "baseline_correct": false,
+        "baseline_latency_sec": 15.269,
+        "mnsr_answer": "5.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 14.877,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If a rectangle has a length of 12 meters and a width of 7 meters, what is its perimeter?",
+        "gold": "38",
+        "baseline_answer": "38",
+        "baseline_correct": true,
+        "baseline_latency_sec": 14.005,
+        "mnsr_answer": "38",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 14.78,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 9 cubed?",
+        "gold": "729",
+        "baseline_answer": "729",
+        "baseline_correct": true,
+        "baseline_latency_sec": 15.56,
+        "mnsr_answer": "729.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 19.84,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "A baker makes 12 dozen cookies. How many cookies did they bake in total?",
+        "gold": "144",
+        "baseline_answer": "144",
+        "baseline_correct": true,
+        "baseline_latency_sec": 14.044,
+        "mnsr_answer": "1728",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 20.878,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the sum of the angles in a standard quadrilateral?",
+        "gold": "360",
+        "baseline_answer": "360",
+        "baseline_correct": true,
+        "baseline_latency_sec": 23.898,
+        "mnsr_answer": "360",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 16.207,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If you flip a fair coin three times, what is the total number of possible outcomes?",
+        "gold": "8",
+        "baseline_answer": "8",
+        "baseline_correct": true,
+        "baseline_latency_sec": 20.867,
+        "mnsr_answer": "4",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 32.225,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "Solve for y: 5y - 12 = 3y + 4.",
+        "gold": "8",
+        "baseline_answer": "8",
+        "baseline_correct": true,
+        "baseline_latency_sec": 12.147,
+        "mnsr_answer": "8",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 13.615,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 45% of 200?",
+        "gold": "90",
+        "baseline_answer": "90.",
+        "baseline_correct": false,
+        "baseline_latency_sec": 12.172,
+        "mnsr_answer": "90",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 11.055,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "A runner finishes a 10-kilometer race in 50 minutes. What was their average speed in kilometers per minute?",
+        "gold": "0.2",
+        "baseline_answer": "0.2",
+        "baseline_correct": true,
+        "baseline_latency_sec": 15.618,
+        "mnsr_answer": "0.2",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 16.691,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 84 divided by 7?",
+        "gold": "12",
+        "baseline_answer": "12",
+        "baseline_correct": true,
+        "baseline_latency_sec": 15.036,
+        "mnsr_answer": "12",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 14.337,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If a box contains 6 red marbles, 4 blue marbles, and 5 green marbles, what is the total number of marbles?",
+        "gold": "15",
+        "baseline_answer": "15",
+        "baseline_correct": true,
+        "baseline_latency_sec": 15.134,
+        "mnsr_answer": "15",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 10.627,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the next number in the sequence: 2, 4, 8, 16, 32...?",
+        "gold": "64",
+        "baseline_answer": "64",
+        "baseline_correct": true,
+        "baseline_latency_sec": 15.821,
+        "mnsr_answer": "64",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 14.708,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 13 multiplied by 13?",
+        "gold": "169",
+        "baseline_answer": "169",
+        "baseline_correct": true,
+        "baseline_latency_sec": 43.826,
+        "mnsr_answer": "169",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 91.12,
+        "action_path": "TERMINATE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "A car tank holds 15 gallons of gas. If gas costs $3.40 per gallon, how much does it cost to fill the tank completely?",
+        "gold": "51",
+        "baseline_answer": "51",
+        "baseline_correct": true,
+        "baseline_latency_sec": 19.597,
+        "mnsr_answer": "51",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 17.201,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 892 minus 415?",
+        "gold": "477",
+        "baseline_answer": "477",
+        "baseline_correct": true,
+        "baseline_latency_sec": 33.244,
+        "mnsr_answer": "467",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 82.211,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If a map scale is 1 inch = 50 miles, how many miles are represented by 4.5 inches?",
+        "gold": "225",
+        "baseline_answer": "4.5",
+        "baseline_correct": false,
+        "baseline_latency_sec": 15.131,
+        "mnsr_answer": "225",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 21.777,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the least common multiple (LCM) of 6 and 8?",
+        "gold": "24",
+        "baseline_answer": "24.",
+        "baseline_correct": false,
+        "baseline_latency_sec": 17.93,
+        "mnsr_answer": "24.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 19.189,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the greatest common divisor (GCD) of 36 and 54?",
+        "gold": "18",
+        "baseline_answer": "18.",
+        "baseline_correct": false,
+        "baseline_latency_sec": 20.463,
+        "mnsr_answer": "18.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 23.442,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If x = 4 and y = 7, what is the value of 2x + 3y?",
+        "gold": "29",
+        "baseline_answer": "29",
+        "baseline_correct": true,
+        "baseline_latency_sec": 15.802,
+        "mnsr_answer": "29",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 13.748,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "A store owner buys an item for $40 and sells it for $60. What is the percentage profit?",
+        "gold": "50",
+        "baseline_answer": "50",
+        "baseline_correct": true,
+        "baseline_latency_sec": 12.377,
+        "mnsr_answer": "50",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 11.339,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 7 multiplied by 9, then added to 15?",
+        "gold": "78",
+        "baseline_answer": "78",
+        "baseline_correct": true,
+        "baseline_latency_sec": 12.529,
+        "mnsr_answer": "78",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 15.283,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If an alarm clock rings every 15 minutes, how many times will it ring in 3 hours?",
+        "gold": "12",
+        "baseline_answer": "12",
+        "baseline_correct": true,
+        "baseline_latency_sec": 17.096,
+        "mnsr_answer": "12",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 14.693,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 1000 divided by 25?",
+        "gold": "40",
+        "baseline_answer": "40",
+        "baseline_correct": true,
+        "baseline_latency_sec": 23.091,
+        "mnsr_answer": "40",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 21.916,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "A library has 400 books. If 15% of them are checked out, how many books are still in the library?",
+        "gold": "340",
+        "baseline_answer": "15",
+        "baseline_correct": false,
+        "baseline_latency_sec": 38.496,
+        "mnsr_answer": "340",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 111.104,
+        "action_path": "TERMINATE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the square of 19?",
+        "gold": "361",
+        "baseline_answer": "361.",
+        "baseline_correct": false,
+        "baseline_latency_sec": 28.95,
+        "mnsr_answer": "361.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 53.267,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "Solve for x: x / 4 = 12.",
+        "gold": "48",
+        "baseline_answer": "48",
+        "baseline_correct": true,
+        "baseline_latency_sec": 17.951,
+        "mnsr_answer": "48",
+        "mnsr_correct": true,
+        "mnsr_latency_sec": 18.24,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If a pool fills at a rate of 20 gallons per minute, how many gallons will it hold after 45 minutes?",
+        "gold": "900",
+        "baseline_answer": "45",
+        "baseline_correct": false,
+        "baseline_latency_sec": 14.102,
+        "mnsr_answer": "45",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 14.541,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is 673 plus 289?",
+        "gold": "962",
+        "baseline_answer": "104",
+        "baseline_correct": false,
+        "baseline_latency_sec": 36.402,
+        "mnsr_answer": "952.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 31.605,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "What is the value of 2 to the power of 6?",
+        "gold": "64",
+        "baseline_answer": "64",
+        "baseline_correct": true,
+        "baseline_latency_sec": 19.458,
+        "mnsr_answer": "64.",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 16.408,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    },
+    {
+        "question": "If 3 pencils cost $1.50, how much do 12 pencils cost?",
+        "gold": "6",
+        "baseline_answer": "6.00",
+        "baseline_correct": false,
+        "baseline_latency_sec": 13.595,
+        "mnsr_answer": "6.00",
+        "mnsr_correct": false,
+        "mnsr_latency_sec": 11.165,
+        "action_path": "CONTINUE",
+        "validation": {
+            "valid": true,
+            "num_errors": 0,
+            "errors": []
+        }
+    }
+]

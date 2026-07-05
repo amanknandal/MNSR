@@ -1,0 +1,4517 @@
+[
+    {
+        "qid": "2bc9c4f9c19c167187f2",
+        "term": "Genghis Khan",
+        "description": "founder and first Great Khan of the Mongol Empire",
+        "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+        "answer": true,
+        "facts": [
+            "Julius Caesar had three children.",
+            "Genghis Khan had sixteen children.",
+            "Modern geneticists have determined that  out of every 200 men today has DNA that can be traced to Genghis Khan."
+        ],
+        "decomposition": [
+            "How many kids did Julius Caesar have?",
+            "How many kids did Genghis Khan have?",
+            "Is #2 greater than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Caesarion-2",
+                        "Julia (daughter of Caesar)-1"
+                    ]
+                ],
+                [
+                    [
+                        "Alakhai Bekhi-1",
+                        "Tolui-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Julius Caesar-75"
+                    ]
+                ],
+                [
+                    [
+                        "Genghis Khan-17"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Gaius Julius Caesar-7"
+                    ]
+                ],
+                [
+                    [
+                        "Genghis Khan-15"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "03caf265939fab701dee",
+        "term": "The Police",
+        "description": "English rock band",
+        "question": "Could the members of The Police perform lawful arrests?",
+        "answer": false,
+        "facts": [
+            "The members of The Police were musicians, not law enforcement officers.",
+            "Only law enforcement officers can perform lawful arrests."
+        ],
+        "decomposition": [
+            "Who can perform lawful arrests?",
+            "Are members of The Police also #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Arrest-2"
+                    ]
+                ],
+                [
+                    [
+                        "Citizen's arrest-2",
+                        "The Police-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Arrest-7",
+                        "Law enforcement officer-13"
+                    ]
+                ],
+                [
+                    [
+                        "Law enforcement officer-13",
+                        "The Police-8"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Lawful interception-28"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "aadc8000bfcb987d6b9d",
+        "term": "Depression (mood)",
+        "description": "state of low mood and fatigue",
+        "question": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?",
+        "answer": false,
+        "facts": [
+            "Depression is caused by low levels of serotonin, dopamine and norepinephrine.",
+            "Monoamine Oxidase breaks down neurotransmitters and lowers levels of serotonin, dopamine and norepinephrine."
+        ],
+        "decomposition": [
+            "Depression is caused by low levels of what chemicals?",
+            "Monoamine Oxidase has an effect on what chemicals?",
+            "Of the chemicals listed in both #1 and #2, does Monoamine Oxidase raise their levels?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Monoamine oxidase-8"
+                    ]
+                ],
+                [
+                    [
+                        "Monoamine oxidase-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Depression (mood)-13"
+                    ]
+                ],
+                [
+                    [
+                        "Monoamine oxidase-8"
+                    ]
+                ],
+                [
+                    [
+                        "Serotonin-36"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Biology of depression-1"
+                    ]
+                ],
+                [
+                    [
+                        "Monoamine oxidase-7"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "d1a138ecfa13ee277ab4",
+        "term": "Grey seal",
+        "description": "species of seal",
+        "question": "Would a dog respond to bell before Grey seal?",
+        "answer": true,
+        "facts": [
+            "Grey seals have no ear flaps and their ears canals are filled with wax.",
+            "Grey seals hear better underwater when their ears open like a valve.",
+            "Dogs have sensitive ears that can hear as far as a quarter of a mile away."
+        ],
+        "decomposition": [
+            "How sensitive is a grey seal's hearing on land?",
+            "How sensitive is a dog's hearing on land?",
+            "Is #2 better than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Pinniped-24"
+                    ]
+                ],
+                [
+                    [
+                        "Hearing range-11",
+                        "Hertz-5"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Grey seal-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Dog-54"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Grey seal-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Dog anatomy-114"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "f945d8a4274bb3805989",
+        "term": "Pound sterling",
+        "description": "Official currency of the United Kingdom and other territories",
+        "question": "Is a pound sterling valuable?",
+        "answer": false,
+        "facts": [
+            "A pound sterling is fiat money.",
+            "Fiat money is backed by government decree and has no intrinsic value.",
+            "One pound sterling is worth about 1.24 US dollars by May of 2020."
+        ],
+        "decomposition": [
+            "What is the value of the Pound Sterling based on?",
+            "Is #1 the material used in making it?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Pound sterling-16"
+                    ]
+                ],
+                [
+                    [
+                        "Pound sterling-16"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Pound sterling-1",
+                        "Pound sterling-12"
+                    ]
+                ],
+                [
+                    [
+                        "Pound sterling-71"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Pound sterling-16"
+                    ]
+                ],
+                [
+                    [
+                        "One pound (British coin)-3"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "4b72e0ddaff371e921aa",
+        "term": "Shrimp",
+        "description": "Decapod crustaceans",
+        "question": "Is shrimp scampi definitely free of plastic?",
+        "answer": false,
+        "facts": [
+            "Shrimp scampi is a dish made with shrimp.",
+            "Shrimp have been found to contain microplastics.",
+            "Microplastics are plastic material."
+        ],
+        "decomposition": [
+            "What protein is Shrimp scampi made out of?",
+            "What have #1 been found to contain?",
+            "Are #2 free from plastic?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Scampi-1"
+                    ]
+                ],
+                [
+                    [
+                        "Plastic pollution-31",
+                        "Plastic pollution-48"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Fish-92",
+                        "Scampi-2"
+                    ]
+                ],
+                [
+                    [
+                        "Microplastics-12"
+                    ]
+                ],
+                [
+                    [
+                        "Microplastics-1"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Scampi-8"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "93e3995669f121e630ef",
+        "term": "Rede Globo",
+        "description": "Brazilian commercial television network",
+        "question": "Do the anchors on Rede Globo speak Chinese?",
+        "answer": false,
+        "facts": [
+            "Rede Globo is a Brazilian television network.",
+            "The official language of Brazil is Portuguese."
+        ],
+        "decomposition": [
+            "What country broadcasts Rede Globo?",
+            "What is the official language of #1?",
+            "Is #2 Chinese?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Rede Globo-1"
+                    ]
+                ],
+                [
+                    [
+                        "Brazil-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Rede Globo-1"
+                    ]
+                ],
+                [
+                    [
+                        "Brazil-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Rede Globo-1"
+                    ]
+                ],
+                [
+                    [
+                        "Portuguese language-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "8bc8ea4aa7a9ff69b37f",
+        "term": "Wonder Woman (2017 film)",
+        "description": "American superhero film directed by Patty Jenkins",
+        "question": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?",
+        "answer": true,
+        "facts": [
+            "The average cost of a US Boeing 737 plane is 1.6 million dollars.",
+            "Wonder Woman (2017 film) grossed over 800 million dollars at the box office."
+        ],
+        "decomposition": [
+            "How much does a Boeing 737 cost?",
+            "How much did the 2017 movie Wonder Woman gross?",
+            "Is #2 greater than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Wonder Woman (2017 film)-3"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Wonder Woman (2017 film)-3"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Boeing 737-13"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Wonder Woman (2017 film)-31"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "288b94dd2ffbaacbb22f",
+        "term": "Casio",
+        "description": "Japanese electronics company",
+        "question": "Can you buy Casio products at Petco?",
+        "answer": false,
+        "facts": [
+            "Casio is a manufacturer of consumer electronics and watches",
+            "Petco is a chain store that sells pet supplies like food, bowls, litter, toys, cages and grooming equipment"
+        ],
+        "decomposition": [
+            "What kind of products does Casio manufacture?",
+            "What kind of products does Petco sell?",
+            "Does #1 overlap with #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Casio-1"
+                    ]
+                ],
+                [
+                    [
+                        "Petco-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Casio-1"
+                    ]
+                ],
+                [
+                    [
+                        "Petco-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Casio-1"
+                    ]
+                ],
+                [
+                    [
+                        "Petco-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "9956c07e69bfa6f23e51",
+        "term": "Space Race",
+        "description": "Competition between the USSR and the USA to explore space",
+        "question": "Did the Space Race use relay batons?",
+        "answer": false,
+        "facts": [
+            "The Space Race was a competition between the USA and USSR regarding spaceflight and exploration",
+            "Relay batons are used in relay races",
+            "Relay races are athletic track and field events"
+        ],
+        "decomposition": [
+            "What was the Space Race?",
+            "What are relay batons used for?",
+            "Is #1 the same as #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Space Race-1"
+                    ]
+                ],
+                [
+                    [
+                        "Relay race-11"
+                    ]
+                ],
+                [
+                    [
+                        "Relay race-11",
+                        "Space Race-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Space Race-1"
+                    ]
+                ],
+                [
+                    [
+                        "Relay race-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Space Race-1"
+                    ]
+                ],
+                [
+                    [
+                        "Relay race-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "02b706b9b1b051fc7d5b",
+        "term": "Deciduous",
+        "description": "Trees or shrubs that lose their leaves seasonally",
+        "question": "Are Christmas trees dissimilar to deciduous trees?",
+        "answer": true,
+        "facts": [
+            "Christmas trees are usually pine trees.",
+            "Pine trees keep their needles all year round."
+        ],
+        "decomposition": [
+            "Which kind of trees are commonly used as Christmas trees?",
+            "Are #1 dissimilar to deciduous trees?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Christmas tree-1"
+                    ]
+                ],
+                [
+                    [
+                        "Deciduous-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Christmas tree-56"
+                    ]
+                ],
+                [
+                    [
+                        "Fir-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Christmas tree-1"
+                    ]
+                ],
+                [
+                    [
+                        "Deciduous-1"
+                    ]
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "9db098aea8bab57bb47d",
+        "term": "Biochemistry",
+        "description": "study of chemical processes in living organisms",
+        "question": "Does Biochemistry study gluons?",
+        "answer": false,
+        "facts": [
+            "Biochemistry studies role, function, and structure of biomolecules.",
+            "Gluon, the so-called messenger particle of the strong nuclear force, which binds sub-atomic particles known as quarks within the protons and neutrons of stable matter as well as within heavier, short-lived particles created at high energies.",
+            "biomolecules are comprised of atoms. "
+        ],
+        "decomposition": [
+            "What are gluons?",
+            "What things are studied in biochemistry?",
+            "Is #1 included in #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Gluon-1"
+                    ]
+                ],
+                [
+                    [
+                        "Biochemistry-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Gluon-1"
+                    ]
+                ],
+                [
+                    [
+                        "Biochemistry-2"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Gluon-1"
+                    ]
+                ],
+                [
+                    [
+                        "Biochemistry-1",
+                        "Biochemistry-4"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "12ace6f9fcd0ce3f7b64",
+        "term": "Kingdom of Hungary",
+        "description": "former Central European monarchy (1000\u20131946)",
+        "question": "Did land owners elect their rulers in the Kingdom of Hungary?",
+        "answer": false,
+        "facts": [
+            "The Kingdom of Hungary was a monarchy.",
+            "Monarchies do not allow citizens to elect their own rulers."
+        ],
+        "decomposition": [
+            "Which kind of government ruled over the Kingdom of Hungary?",
+            "Does #1 allow citizens to elect their own rulers?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Kingdom of Hungary-1"
+                    ]
+                ],
+                [
+                    [
+                        "Monarchy-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Kingdom of Hungary-1"
+                    ]
+                ],
+                [
+                    [
+                        "Kingdom of Hungary-1"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Kingdom of Hungary-1"
+                    ]
+                ],
+                [
+                    [
+                        "Monarchy-16"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "fcd77236180fa2cb4e69",
+        "term": "Nancy Pelosi",
+        "description": "52nd speaker of the United States House of Representatives",
+        "question": "Would Nancy Pelosi publicly denounce abortion?",
+        "answer": false,
+        "facts": [
+            "Abortion is a topic that divides the Republican Party and the Democratic Party.",
+            "Nancy Pelosi is a Democrat and appeals to that base.",
+            "The Democratic base is largely pro-choice with abortion. "
+        ],
+        "decomposition": [
+            "Which US political party does Nancy Pelosi identify with?",
+            "Do most people who identify with #1 oppose abortion?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Nancy Pelosi-1"
+                    ]
+                ],
+                [
+                    [
+                        "Democratic Party (United States)-3"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Nancy Pelosi-1"
+                    ]
+                ],
+                [
+                    [
+                        "Democratic Party (United States)-3"
+                    ],
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Speaker of the United States House of Representatives-3"
+                    ]
+                ],
+                [
+                    [
+                        "Democratic Party (United States)-70"
+                    ]
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "bcd0ea8e008bc77fc9a0",
+        "term": "Dragon Ball",
+        "description": "Japanese media franchise",
+        "question": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?",
+        "answer": true,
+        "facts": [
+            "Dragon Ball has 6 TV series, 3 TV specials, and 2 direct to video spinoffs as of 2020.",
+            "Friday the 13th has 12 movies in the franchise and 1 TV series as of 2020."
+        ],
+        "decomposition": [
+            "How many Dragon Ball series, TV specials and other features have been released?",
+            "How many Friday the 13th franchise films and television series have been released?",
+            "Is #2 greater than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Dragon Ball-2"
+                    ]
+                ],
+                [
+                    [
+                        "Friday the 13th (franchise)-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Dragon Ball-2"
+                    ]
+                ],
+                [
+                    [
+                        "Friday the 13th (franchise)-1",
+                        "Friday the 13th (franchise)-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Dragon Ball-28",
+                        "Dragon Ball-33"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Friday the 13th (franchise)-3"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "8157923564915cd3ac47",
+        "term": "Amnesia",
+        "description": "Cognitive disorder where the memory is disturbed or lost",
+        "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+        "answer": true,
+        "facts": [
+            "Childhood amnesia is common, with most adults not remembering their lives before 2 or 3 years of age",
+            "9/11 occurred in 2001",
+            "Students graduating high-school in 2017 would have been born in 1999"
+        ],
+        "decomposition": [
+            "What year did 9/11 occur?",
+            "In what year would students graduating high-school in 2017 have been born in?",
+            "What age is childhood amnesia most common in?",
+            "If someone was born in #2, how old would they have been in #1?",
+            "Does #3 overlap with #4?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "September 11 attacks-1"
+                    ]
+                ],
+                [
+                    [
+                        "Yara Shahidi-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Childhood amnesia-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "September 11 attacks-1"
+                    ]
+                ],
+                [
+                    [
+                        "Secondary school-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Childhood amnesia-1"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Inside 9/11-1"
+                    ]
+                ],
+                [
+                    [
+                        "Twelfth grade-54"
+                    ]
+                ],
+                [
+                    [
+                        "Childhood amnesia-3"
+                    ]
+                ],
+                [
+                    [
+                        "Infant-2"
+                    ]
+                ],
+                [
+                    [
+                        "Childhood amnesia-3",
+                        "Infant-2"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "ef3e52eca39670061e16",
+        "term": "Psychic",
+        "description": "person who claims to use extrasensory perception to identify information hidden from the normal senses",
+        "question": "Would a psychic who admits to hot reading be trustworthy?",
+        "answer": false,
+        "facts": [
+            "Hot reading is a technique used by people presenting themselves as psychics to acquire information about a subject prior to the psychic session.",
+            "Hot reading is considered deception in the psychic community."
+        ],
+        "decomposition": [
+            "What do people pretend to be in order to successfully carry out hot reading?",
+            "Do the 'real' #1 consider hot reading to be genuine?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Hot reading-1",
+                        "Hot reading-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Hot reading-1"
+                    ]
+                ],
+                [
+                    [
+                        "Hot reading-1",
+                        "Hot reading-2"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Hot reading-1"
+                    ]
+                ],
+                [
+                    [
+                        "Psychic-1"
+                    ],
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "6b11357d483a2abd47ad",
+        "term": "Comma",
+        "description": "Punctuation mark",
+        "question": "Is average number of peas in a pod enough commas for a billion?",
+        "answer": true,
+        "facts": [
+            "The average number of peas in a pod is 6 or 7.",
+            "A billion is a number that has three commas in it."
+        ],
+        "decomposition": [
+            "How many peas are in the average pod?",
+            "How many commas are needed for a billion?",
+            "Is #1 at least equal to #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Pea-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Billion-2"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Pea-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Billion-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Pea-1"
+                    ]
+                ],
+                [
+                    [
+                        "1,000,000,000-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "8d4cc62ee044a42c62dc",
+        "term": "Model (person)",
+        "description": "person employed to display, advertise and promote products, or to serve as a visual aid",
+        "question": "Does actress Leila George lack the height to be a model?",
+        "answer": false,
+        "facts": [
+            "Actress Leila George, the daughter of Vincent D'onofrio, is 5'9\" tall.",
+            "Model Cindy Crawford is 5'9\" tall.",
+            "Model Agyness Deyn is 5'8\" tall.",
+            "Model Sara Sampaio is 5'8\" tall."
+        ],
+        "decomposition": [
+            "How tall is Leila George?",
+            "How tall is Cindy Crawford? ",
+            "What is the height of model Sara Sampaio?",
+            "Is #1 shorter than both #2 and #3?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Leila George-2"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Cindy Crawford-9"
+                    ]
+                ],
+                [
+                    [
+                        "Sara Sampaio-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Leila George-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Cindy Crawford-9"
+                    ]
+                ],
+                [
+                    [
+                        "Sara Sampaio-1"
+                    ],
+                    "operation"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Cindy Crawford-9"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "45cb43c9ef8bf4c5662b",
+        "term": "Dustin Hoffman",
+        "description": "American actor and director",
+        "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+        "answer": true,
+        "facts": [
+            "Dustin Hoffman was raised in a Jewish family.",
+            "In modern Hebrew, b'nei yisrael (\"children of Israel\") can denote the Jewish people at any time in history."
+        ],
+        "decomposition": [
+            "What does B'nei Yisrael refer to?",
+            "What religion was Dustin Hoffman family as he was growing up?",
+            "Is #2 the same as #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Israelites-11"
+                    ]
+                ],
+                [
+                    [
+                        "Dustin Hoffman-7",
+                        "Dustin Hoffman-8"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Israelites-8"
+                    ]
+                ],
+                [
+                    [
+                        "Dustin Hoffman-7"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Indian Jews in Israel-7"
+                    ]
+                ],
+                [
+                    [
+                        "Dustin Hoffman-7"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "e67af86f240ce2f24b84",
+        "term": "McDonald's",
+        "description": "American fast food restaurant chain",
+        "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+        "answer": false,
+        "facts": [
+            "McDonald's offers low calorie brunch options like parfaits and egg white sandwiches. ",
+            "McDonald's offers low calorie lunch options including basic hamburgers and salads."
+        ],
+        "decomposition": [
+            "What is characteristic of food eaten by someone on a diet?",
+            "Are lunch options characterized by #1 unavailable at McDonald's?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Dieting-1"
+                    ]
+                ],
+                [
+                    [
+                        "McDonald's-2"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Healthy diet-2"
+                    ]
+                ],
+                [
+                    [
+                        "McDonald's-2"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Dieting-21"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "McDonald's-2"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "18ec6b0a1ecc89a49e38",
+        "term": "The Powerpuff Girls",
+        "description": "American animated television series",
+        "question": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?",
+        "answer": false,
+        "facts": [
+            "The Powerpuff Girls are kindergarten aged girls.",
+            "Camden Military Academy is a private, all-male, military boarding school located in Camden, South Carolina.",
+            "Camden Military Academy accepts male students in grades 7 through 12."
+        ],
+        "decomposition": [
+            "What gender are the Powerpuff Girls?",
+            "What gender is allowed to attend the Camden Military Academy?",
+            "Is #1 the same as #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "The Powerpuff Girls-1"
+                    ]
+                ],
+                [
+                    [
+                        "Camden Military Academy-1"
+                    ]
+                ],
+                [
+                    [
+                        "Camden Military Academy-1",
+                        "The Powerpuff Girls-1"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "The Powerpuff Girls-1"
+                    ]
+                ],
+                [
+                    [
+                        "Camden Military Academy-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "The Powerpuff Girls-1"
+                    ]
+                ],
+                [
+                    [
+                        "Camden Military Academy-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "51d679c2511fa35fc05f",
+        "term": "CT scan",
+        "description": "medical imaging procedure which uses X-rays to produce cross-sectional images",
+        "question": "Would an uninsured person be more likely than an insured person to decline a CT scan?",
+        "answer": true,
+        "facts": [
+            "Without insurance, a CT scan can cost up to $5,000.",
+            "Most insurance companies will cover or reimburse the cost of a CT scan."
+        ],
+        "decomposition": [
+            "Typically how much does it cost to get a CT scan without insurance?",
+            "On average, how much does it cost to get a CT scan with insurance?",
+            "Is #2 less than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Full-body CT scan-12"
+                    ]
+                ],
+                [
+                    [
+                        "Full-body CT scan-12"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "CT scan-53"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "CT scan-53"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "CT scan-53"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "9054329906964851c6d7",
+        "term": "Donatello",
+        "description": "Italian painter and sculptor",
+        "question": "Was the Donatello crucifix identified in 2020 life size?",
+        "answer": false,
+        "facts": [
+            "The crucifix discovered in the church of Sant\u2019Angelo depicts an adult man.",
+            "The crucifix discovered in the church of Sant\u2019Angelo is 89 cm high.",
+            "The crucifix discovered in the church of Sant'Angelo was identified as being a work of Donatello.",
+            "The average height of an adult man has been at least 150 cm in historical times."
+        ],
+        "decomposition": [
+            "The crucifix sculpted by Donatello and identified in 2020 is a depiction of what?",
+            "What is the average height of #1?",
+            "What is the average height of a real, living, #1?",
+            "Is #2 equal to #3?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Donatello-17"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Instrument of Jesus' crucifixion-22"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Crucifix-1",
+                        "Donatello-17"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Crucifixion of Jesus-65"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Donatello-17"
+                    ]
+                ],
+                [
+                    [
+                        "Crucifix-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Short stature-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "91a392355a23a601fc93",
+        "term": "Disneyland Paris",
+        "description": "Theme park resort in France owned by The Walt Disney Company",
+        "question": "Is Disneyland Paris the largest Disney resort?",
+        "answer": false,
+        "facts": [
+            "Disneyland Paris contains two parks, several hotels, and a shopping district.",
+            "By comparison, Walt Disney World in Florida contains four parks, two waterparks, a shopping district, and many hotels.",
+            "Disney World is bigger than Disneyland Paris Resort and Disneyland California Resort combined."
+        ],
+        "decomposition": [
+            "How big is Disneyland Paris in square miles?",
+            "How big is Walt Disney World in square miles?",
+            "Is #1 larger than #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Disneyland Paris-40"
+                    ]
+                ],
+                [
+                    [
+                        "Walt Disney World-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Disneyland Paris-6"
+                    ]
+                ],
+                [
+                    [
+                        "Walt Disney World-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Disneyland Paris-40"
+                    ]
+                ],
+                [
+                    [
+                        "Walt Disney World-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "2feda7a77fc2d3f2fb2e",
+        "term": "Keyboard layout",
+        "description": "any specific mechanical, visual, or functional arrangement of the keys of a keyboard or typewriter",
+        "question": "Could someone with fine motor control issues benefit from an altered keyboard layout?",
+        "answer": true,
+        "facts": [
+            "Fine motor control involves making small, precise movements like painting or typing. ",
+            "The standard keyboard layout is designed to be used by someone without any motor control issues.",
+            "There are modified keyboards for multiple types of disability."
+        ],
+        "decomposition": [
+            "What types of keyboard layouts exist?",
+            "Among #1, which keyboard layouts are optimized for disabilities?",
+            "Are any of #2 better for those with limited fine motor control?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Keyboard layout-170",
+                        "Keyboard layout-43",
+                        "Keyboard layout-52"
+                    ]
+                ],
+                [
+                    [
+                        "Keyboard layout-170"
+                    ]
+                ],
+                [
+                    [
+                        "Keyboard layout-170"
+                    ],
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Keyboard layout-33"
+                    ]
+                ],
+                [
+                    [
+                        "Keyboard layout-170"
+                    ]
+                ],
+                [
+                    [
+                        "Keyboard layout-170"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Computer keyboard-27"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "20287f4a7c88c5ab5dfe",
+        "term": "Adam Sandler",
+        "description": "American actor, comedian, screenwriter, and producer",
+        "question": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?",
+        "answer": true,
+        "facts": [
+            "Adam Sandler and Cole Sprouse starred together in \"Big Daddy\".",
+            "A prop used throughout \"Big Daddy\" was a scuba diving action figure that Cole's character called 'Scuba Steve'."
+        ],
+        "decomposition": [
+            "What did Adam Sandler and Cole Sprouse star together in?",
+            "Was a scuba man doll used as a prop by Cole in #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Big Daddy (1999 film)-1"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Big Daddy (1999 film)-1"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Big Daddy (1999 film)-1"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "6b64db440d84d202ab0c",
+        "term": "Common warthog",
+        "description": "Wild member of the pig family",
+        "question": "Is there a warthog on Broadway?",
+        "answer": true,
+        "facts": [
+            "Disney's The Lion King is a popular Broadway musical.",
+            "One of the characters is named Pumbaa.",
+            "Pumbaa is a warthog."
+        ],
+        "decomposition": [
+            "Which animals did Disney movie 'Lion King' feature?",
+            "Is a warthog included in #1?",
+            "Was Lion King adapted for a Broadway musical?",
+            "Considering #2 and #3, would the warthog appear on Broadway?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "The Lion King-10"
+                    ]
+                ],
+                [
+                    [
+                        "The Lion King-10"
+                    ]
+                ],
+                [
+                    [
+                        "The Lion King-24"
+                    ]
+                ],
+                [
+                    [
+                        "The Lion King-10",
+                        "The Lion King-24"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "The Lion King-10"
+                    ]
+                ],
+                [
+                    "operation"
+                ],
+                [
+                    [
+                        "The Lion King (musical)-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "The Lion King-10"
+                    ]
+                ],
+                [
+                    "operation"
+                ],
+                [
+                    [
+                        "The Lion King (musical)-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "6d4bf491231a478e4822",
+        "term": "Ice",
+        "description": "water frozen into the solid state",
+        "question": "Does Disney have an ice princess?",
+        "answer": true,
+        "facts": [
+            "In 2013, Disney released Frozen.",
+            "Frozen features Elsa, a princess with magical ice powers."
+        ],
+        "decomposition": [
+            "What are some popular Disney characters?",
+            "Is any of #1 an ice princess?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Disney Princess-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Elsa (Frozen)-2"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Elsa (Frozen)-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Disney Princess-33"
+                    ]
+                ],
+                [
+                    [
+                        "Disney Princess-33",
+                        "Elsa (Frozen)-3"
+                    ],
+                    "no_evidence"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "dc33be5b6e8b1bc0333a",
+        "term": "Biochemistry",
+        "description": "study of chemical processes in living organisms",
+        "question": "Would a geographer use biochemistry in their work?",
+        "answer": false,
+        "facts": [
+            "A geographer is a scientist whose area of study is geography, the study of Earth's natural environment and human society.",
+            "Biochemistry is the study of chemical processes within and relating to living organisms."
+        ],
+        "decomposition": [
+            "What is the area of study of a geographer?",
+            "What is the area of study of Biochemistry",
+            "Is any of #1 in #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Geography-22"
+                    ]
+                ],
+                [
+                    [
+                        "Biochemistry-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Geographer-1"
+                    ]
+                ],
+                [
+                    [
+                        "Biochemistry-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Geographer-1"
+                    ]
+                ],
+                [
+                    [
+                        "Biochemistry-1",
+                        "Biochemistry-4"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "6613219dca94a3f583ef",
+        "term": "Compact disc",
+        "description": "Optical disc for storage and playback of digital audio",
+        "question": "Could George Washington's own speeches have been recorded live to a compact disc?",
+        "answer": false,
+        "facts": [
+            "George Washington died in 1799.",
+            "CDs weren't invented until 1982."
+        ],
+        "decomposition": [
+            "When did George Washington die?",
+            "When were compact discs introduced?",
+            "Is #1 after #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "George Washington-1"
+                    ]
+                ],
+                [
+                    [
+                        "Compact disc-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "George Washington-121"
+                    ]
+                ],
+                [
+                    [
+                        "Compact disc-7"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "George Washington-1"
+                    ]
+                ],
+                [
+                    [
+                        "Compact disc-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "a0763e14dbe3b24b8cd7",
+        "term": "Sulfur",
+        "description": "Chemical element with atomic number 16",
+        "question": "Would food made with black salt smell of sulfur?",
+        "answer": true,
+        "facts": [
+            "Black Salt has is a kiln-fired rock salt that contains sulfur.",
+            "When black salt is cooked with, it smells similar to rotten eggs. ",
+            "Rotten eggs smell like sulfur."
+        ],
+        "decomposition": [
+            "What does black salt smell like when cooked?",
+            "Does #1 smell similar to sulfur?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Kala namak-8"
+                    ]
+                ],
+                [
+                    [
+                        "Kala namak-8"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Kala namak-1"
+                    ]
+                ],
+                [
+                    [
+                        "Kala namak-1"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Sea salt-9"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "2b5d632ce884eaa27740",
+        "term": "Spirit (rover)",
+        "description": "NASA Mars rover",
+        "question": "Would a broadcast from Spirit make the news in 2020?",
+        "answer": true,
+        "facts": [
+            "In 2010, the Spirit rover sent what is recorded as its final transmission.",
+            "In 2019, another rover made the news with its viral \"final words\""
+        ],
+        "decomposition": [
+            "When did the martian rover 'Spirit' send its last transmission?",
+            "Which rover sent another 'final message' in 2019?",
+            "Is #1 before 2020 and did #2 make the news?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Spirit (rover)-1"
+                    ]
+                ],
+                [
+                    [
+                        "Opportunity (rover)-1",
+                        "Opportunity (rover)-15"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Spirit (rover)-1"
+                    ]
+                ],
+                [
+                    [
+                        "Opportunity (rover)-1"
+                    ]
+                ],
+                [
+                    [
+                        "Opportunity (rover)-1",
+                        "Spirit (rover)-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Mars Exploration Rover-5"
+                    ]
+                ],
+                [
+                    [
+                        "Opportunity (rover)-15"
+                    ]
+                ],
+                [
+                    [
+                        "Opportunity (rover)-16"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "93122e20f464486f1098",
+        "term": "Frankenstein",
+        "description": "1818 novel by Mary Shelley",
+        "question": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?",
+        "answer": true,
+        "facts": [
+            "The monster in Mary Shelley's novel, Frankenstein, was said to be 8 feet tall.",
+            "Robert Wadlow was the world's tallest man.",
+            "Robert Wadlow was 8 feet 11.1 inches tall."
+        ],
+        "decomposition": [
+            "How tall is Frankenstein?",
+            "How tall is Robert Wadlow?",
+            "Is #2 greater than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Frankenstein-8"
+                    ]
+                ],
+                [
+                    [
+                        "Robert Wadlow-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Frankenstein-8"
+                    ]
+                ],
+                [
+                    [
+                        "Robert Wadlow-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Frankenstein-8"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Robert Wadlow-2"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "705b0f54ded3671f851a",
+        "term": "Tibia",
+        "description": "larger of the two bones of the leg below the knee for vertebrates",
+        "question": "Is the tibia necessary to win the Stanley Cup?",
+        "answer": true,
+        "facts": [
+            "The Stanley Cup is the championship trophy of the National Hockey League",
+            "Ice hockey is a game played by individuals wearing ice skates to move around a frozen playing field",
+            "The tibia is a leg bone",
+            "Legs are required in order to use ice skates"
+        ],
+        "decomposition": [
+            "Which achievement leads to the award of the Stanley Cup?",
+            "Which sport does #1 involve?",
+            "Which body parts are actively involved in playing #2",
+            "Which part of the body is the tibia found in?",
+            "Is #4 included in #3?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Stanley Cup-1"
+                    ]
+                ],
+                [
+                    [
+                        "Ice hockey-1"
+                    ]
+                ],
+                [
+                    [
+                        "Ice hockey-55"
+                    ]
+                ],
+                [
+                    [
+                        "Tibia-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Stanley Cup-1"
+                    ]
+                ],
+                [
+                    [
+                        "Ice hockey-1"
+                    ]
+                ],
+                [
+                    [
+                        "Ice skate-1"
+                    ]
+                ],
+                [
+                    [
+                        "Tibia-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Stanley Cup-1"
+                    ]
+                ],
+                [
+                    [
+                        "Stanley Cup-1"
+                    ]
+                ],
+                [
+                    [
+                        "Ice hockey-43"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Tibia-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "6902fd44c42e6067fed1",
+        "term": "Ethics",
+        "description": "branch of philosophy that systematizes, defends, and recommends concepts of right and wrong conduct",
+        "question": "Would an ethics professor teach a class on Cezanne?",
+        "answer": false,
+        "facts": [
+            "Cezanne was an Impressionist painter",
+            "Aesthetics is the branch of philosophy that deals with the arts"
+        ],
+        "decomposition": [
+            "What was Cezanne known for?",
+            "What branch of philosophy would deal with #1?",
+            "Is #2 the same as ethics? "
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Paul C\u00e9zanne-1"
+                    ]
+                ],
+                [
+                    [
+                        "Paul C\u00e9zanne-33"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Ethics-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Paul C\u00e9zanne-1"
+                    ]
+                ],
+                [
+                    [
+                        "Aesthetics-1"
+                    ]
+                ],
+                [
+                    [
+                        "Ethics-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Paul C\u00e9zanne-1"
+                    ]
+                ],
+                [
+                    [
+                        "Paul C\u00e9zanne-33"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "c32d6c247da9be7099b4",
+        "term": "Rice pudding",
+        "description": "Dish made from rice mixed with water or milk",
+        "question": "If you add water to rice pudding is it horchata?",
+        "answer": false,
+        "facts": [
+            "Horchata is a drink made from soaking dry rice in water for hours, then pulverizing and straining the mixture and adding spices and sweetener.",
+            "Rice pudding includes ingredients like eggs, and whole grains of cooked rice. "
+        ],
+        "decomposition": [
+            "What ingredients are in horchata?",
+            "What ingredients are in rice pudding?",
+            "If you add water to #2, is it the same as #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Horchata-1"
+                    ]
+                ],
+                [
+                    [
+                        "Rice pudding-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Horchata-9"
+                    ]
+                ],
+                [
+                    [
+                        "Rice pudding-4"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Horchata-1"
+                    ]
+                ],
+                [
+                    [
+                        "Rice pudding-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "b2b094303f7899b65336",
+        "term": "Nickel",
+        "description": "Chemical element with atomic number 28",
+        "question": "If your skin was turning the color of a zombie, could it be because of nickel?",
+        "answer": true,
+        "facts": [
+            "Zombies are often depicted as green in pallor. ",
+            "Nickel in jewelry often turns skin a greenish color."
+        ],
+        "decomposition": [
+            "What color skin are zombies typically depicted with?",
+            "Does Nickel turn a person's skin #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Zombie-3"
+                    ]
+                ],
+                [
+                    [
+                        "Nickel allergy-12"
+                    ]
+                ]
+            ],
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Glass coloring and color marking-3"
+                    ],
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Zombie-3"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Pallor mortis-1"
+                    ],
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "ce4cb971198309c93006",
+        "term": "Dolce & Gabbana",
+        "description": "Italian fashion house",
+        "question": "Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?",
+        "answer": true,
+        "facts": [
+            "Dolce & Gabbana is an Italian luxury fashion design company.",
+            "The Amish, who value plain clothes, frown upon buttons and have banned velcro and zippers",
+            "The Two Tone Dolce & Gabbana suit has several buttons.",
+            "The Amish cease interactions with sinners by avoiding, or shunning them."
+        ],
+        "decomposition": [
+            "What type of clothing do the Amish prefer?",
+            "What happens if an Amish person wears clothes going against #1?",
+            "What clothing pieces are Dolce & Gabbana known for?",
+            "If Amish cousins wore #3, would #2 happen to them?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Amish-27"
+                    ]
+                ],
+                [
+                    [
+                        "Excommunication-39"
+                    ]
+                ],
+                [
+                    [
+                        "Dolce & Gabbana-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Plain dress-3"
+                    ]
+                ],
+                [
+                    [
+                        "Amish-6"
+                    ]
+                ],
+                [
+                    [
+                        "Dolce & Gabbana-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Amish-1"
+                    ]
+                ],
+                [
+                    [
+                        "Amish-6"
+                    ]
+                ],
+                [
+                    [
+                        "Dolce & Gabbana-1",
+                        "Dolce & Gabbana-32"
+                    ]
+                ],
+                [
+                    [
+                        "Amish-6"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "36cdce4bdbdaf630113c",
+        "term": "Illuminati",
+        "description": "A name given to several groups, both real and fictitious",
+        "question": "Is the Illuminati card game still popular?",
+        "answer": false,
+        "facts": [
+            "The original version of the game was released in 1982.",
+            "A collectible card game version was released in 1995 but only had one set.",
+            "The most recent edition of the base game was published in 2007."
+        ],
+        "decomposition": [
+            "When was the last Illuminati card game published?",
+            "Was #1 with the last few years?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Illuminati (game)-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Illuminati (game)-2",
+                        "Illuminati (game)-4"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Illuminati (game)-13"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "a985a23635dd9c3852d3",
+        "term": "Strawberry",
+        "description": "edible fruit",
+        "question": "Can a strawberry get worms similar to dogs?",
+        "answer": true,
+        "facts": [
+            "Strawberry can suffer from black root rot and nematodes.",
+            "Dogs can suffer from a variety of worms including roundworms that lay eggs on them.",
+            "Nematodes are parasites that are also called roundworms and ascarids.",
+            "Nematodes are parasites that feed off of strawberry plants."
+        ],
+        "decomposition": [
+            "What types of worms can strawberries become infected with?",
+            "What types of worms can dogs become infected with?",
+            "Are any of #1 present in #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Ditylenchus dipsaci-6"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Dog-18"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Strawberry-26"
+                    ]
+                ],
+                [
+                    [
+                        "Worm-7"
+                    ]
+                ],
+                [
+                    [
+                        "Worm-7"
+                    ]
+                ]
+            ],
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Dog-18"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "2f59da1520d3c5f9f83a",
+        "term": "Menthol",
+        "description": "chemical compound",
+        "question": "Is Menthol associated with Thanksgiving?",
+        "answer": false,
+        "facts": [
+            "Menthol is the main component of peppermint oil and is responsible for the noticeable cooling sensation. ",
+            "During Thanksgiving, turkey, potatoes, gravy, and pie are common dishes. None of which have menthol in it."
+        ],
+        "decomposition": [
+            "What are some common dishes served during Thanksgiving?",
+            "Does any of #1 contain menthol?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Thanksgiving (United States)-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Thanksgiving-6"
+                    ]
+                ],
+                [
+                    [
+                        "Menthol-1"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Thanksgiving dinner-10",
+                        "Thanksgiving dinner-16"
+                    ]
+                ],
+                [
+                    [
+                        "Menthol-23",
+                        "Thanksgiving dinner-10",
+                        "Thanksgiving dinner-16"
+                    ]
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "0a87b4e592e3963796bb",
+        "term": "Eggplant",
+        "description": "plant species Solanum melongena",
+        "question": "Would someone in Mumbai refer to Solanum melongena as an eggplant?",
+        "answer": false,
+        "facts": [
+            "Mumbia is a city in India.",
+            "India is a country located in South Asia.",
+            "In South Asia the Solanum melongena plant is referred to as a brinjal."
+        ],
+        "decomposition": [
+            "In what country Mumbai located?",
+            "In what region is #1 located?",
+            "What is Solanum melongena referred to as in #2?",
+            "Is #3 the word \"eggplant\"?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Mumbai-1"
+                    ]
+                ],
+                [
+                    [
+                        "India-1"
+                    ]
+                ],
+                [
+                    [
+                        "Eggplant-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Mumbai-3"
+                    ]
+                ],
+                [
+                    [
+                        "India-1"
+                    ]
+                ],
+                [
+                    [
+                        "Eggplant-16"
+                    ]
+                ],
+                [
+                    [
+                        "Eggplant-16"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Mumbai-1"
+                    ]
+                ],
+                [
+                    [
+                        "India-1"
+                    ]
+                ],
+                [
+                    [
+                        "Eggplant-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "c78c5bd6fbff96fff7aa",
+        "term": "Lie",
+        "description": "intentionally false statement to a person or group made by another person or group who knows it is not wholly the truth",
+        "question": "Is it okay to lie after taking an oath in a court of law?",
+        "answer": false,
+        "facts": [
+            "In a court of law, lying under oath is considered perjury. ",
+            "Perjury is considered a crime."
+        ],
+        "decomposition": [
+            "When you lie in court, what is that considered?",
+            "Is #1 legal?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Perjury-1"
+                    ]
+                ],
+                [
+                    [
+                        "Perjury-2"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Perjury-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Perjury-1"
+                    ]
+                ],
+                [
+                    [
+                        "Perjury-2"
+                    ]
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "6debbf95bba7b1fcf852",
+        "term": "Art",
+        "description": "Creative work to evoke emotional response",
+        "question": "Is art prioritized in the US education system?",
+        "answer": false,
+        "facts": [
+            "Art classes are often the first to be cut during times of low school funds. ",
+            "Between 1999 and 2009, schools offering visual arts curriculum decreased by 7%. "
+        ],
+        "decomposition": [
+            "When funding is low in schools, what subjects are typically cut first?",
+            "What types of classes are #1 classified as?",
+            "Is art not classified as #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "North Andover High School-14"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Art education in the United States-2"
+                    ]
+                ],
+                [
+                    [
+                        "The arts-3"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Public school funding in the United States-9"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "2dff5bccacfab5c64ec6",
+        "term": "Soup",
+        "description": "primarily liquid food",
+        "question": "While on a liquid diet, are there some types of soup you cannot eat?",
+        "answer": true,
+        "facts": [
+            "Italian wedding soup has large chunks including meatballs and pasta which require chewing.",
+            "Chicken Noodle soup has chunks of chicken and large noodles in it that require chewing."
+        ],
+        "decomposition": [
+            "Are there any soups that contain substantially solid portions?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Gumbo-1",
+                        "Menudo (soup)-1"
+                    ],
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Soup-1",
+                        "Stew-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Chicken soup-1"
+                    ]
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "a59e21160e115f8ae435",
+        "term": "Twelve-tone technique",
+        "description": "method of musical composition devised by Arnold Sch\u00f6nberg to ensure that all 12 notes of the chromatic scale are equally often, so that the music avoids being in a key",
+        "question": "Would it be impossible to use an Iwato scale for a twelve-tone technique composition?",
+        "answer": true,
+        "facts": [
+            "The Iwato scale has 5 pitch cases.",
+            "The chromatic scale has 12 pitch cases."
+        ],
+        "decomposition": [
+            "How many pitch cases are used for the Iwato scale?",
+            "Is #1 not equal to the number of pitch cases needed for the twelve-tone technique?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Iwato scale-1"
+                    ]
+                ],
+                [
+                    [
+                        "Twelve-tone technique-1"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Iwato scale-1"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Iwato scale-1"
+                    ]
+                ],
+                [
+                    [
+                        "Twelve-tone technique-1"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "8703c535b9454f6d0d0a",
+        "term": "Gulf of Finland",
+        "description": "arm of the Baltic Sea",
+        "question": "Would the Titanic be well preserved at the bottom of the Gulf of Finland?",
+        "answer": true,
+        "facts": [
+            "The bottom of the gulf is one of the world's largest ship cemeteries. Because of the low salinity and cold waters, and no shipworms, the ships are relatively well preserved.",
+            "RMS Titanic was a British passenger ship."
+        ],
+        "decomposition": [
+            "Are ships well-preserved in the Gulf of Finland?",
+            "Was the RMS Titanic a ship?",
+            "Is both #1 and #2 \"yes\""
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Gulf of Finland-28"
+                    ]
+                ],
+                [
+                    [
+                        "RMS Titanic-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Gulf of Finland-28"
+                    ]
+                ],
+                [
+                    [
+                        "RMS Titanic-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Gulf of Finland-28"
+                    ]
+                ],
+                [
+                    [
+                        "RMS Titanic-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "9cbfaad8a60a5b69f255",
+        "term": "Hepatitis",
+        "description": "inflammation of the liver tissue",
+        "question": "Could a dandelion suffer from hepatitis?",
+        "answer": false,
+        "facts": [
+            "Only creatures that contain a liver can suffer from hepatitis.",
+            "The liver is an organ only found in vertebrates.",
+            "Vertebrates exist in the kingdom Animalia.",
+            "Dandelions are plants in the kingdom Plantae."
+        ],
+        "decomposition": [
+            "Hepatitis is the inflammation of what?",
+            "In which kingdom is #1 found?",
+            "In what kingdom are dandelions found?",
+            "Is #3 the same as #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Hepatitis-1"
+                    ]
+                ],
+                [
+                    [
+                        "Animal-1",
+                        "Animal-2",
+                        "Liver-1",
+                        "Vertebrate-1"
+                    ]
+                ],
+                [
+                    [
+                        "Plant-1",
+                        "Taraxacum-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Hepatitis-1"
+                    ]
+                ],
+                [
+                    [
+                        "Liver-1",
+                        "Vertebrate-1"
+                    ]
+                ],
+                [
+                    [
+                        "Taraxacum-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Hepatitis-4"
+                    ]
+                ],
+                [
+                    [
+                        "Liver-98"
+                    ]
+                ],
+                [
+                    [
+                        "Chondrilla (plant)-3"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "ae0df71d989593b1a244",
+        "term": "Week",
+        "description": "unit of time",
+        "question": "Would a week be enough time to watch every episode of Ugly Betty?",
+        "answer": true,
+        "facts": [
+            "There are 168 hours in a week.",
+            "The entire Ugly Betty series is 85 hours long."
+        ],
+        "decomposition": [
+            "How many hours are in a week?",
+            "How long is the entire Ugly Betty series?",
+            "Is #1 greater than or equal to #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Week-9"
+                    ]
+                ],
+                [
+                    [
+                        "Ugly Betty-10"
+                    ]
+                ],
+                [
+                    [
+                        "Ugly Betty-10"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Ugly Betty-16"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Week-9"
+                    ],
+                    "operation"
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "7a8b8bb51ceffba950c8",
+        "term": "Bitcoin",
+        "description": "decentralized cryptocurrency",
+        "question": "Was the Louisiana Purchase made with bitcoin?",
+        "answer": false,
+        "facts": [
+            "Bitcoin was launched as a currency in 2009.",
+            "The Louisiana Purchase was in 1803."
+        ],
+        "decomposition": [
+            "When was Bitcoin launched?",
+            "When did the Louisiana Purchase take place?",
+            "Is #1 prior to #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Bitcoin-2"
+                    ]
+                ],
+                [
+                    [
+                        "Louisiana Purchase-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Bitcoin-2"
+                    ]
+                ],
+                [
+                    [
+                        "Louisiana Purchase-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Bitcoin-4"
+                    ]
+                ],
+                [
+                    [
+                        "Louisiana Purchase-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "93a1522140926b9b26dc",
+        "term": "Serfdom",
+        "description": "status of peasants under feudalism",
+        "question": "Did Japanese serfdom have higher status than English counterpart?",
+        "answer": true,
+        "facts": [
+            "Serfs in Medieval England were peasants that were indentured servants to their lords.",
+            "Serfs were often harshly treated and had little legal redress against the actions of their lords.",
+            "Japanese serfs were farmers and fishermen.",
+            "Japanese believed that serfs produced food, which was depended on by all classes, therefore, they worked harder."
+        ],
+        "decomposition": [
+            "How did English lords treat their serfs?",
+            "What did the Japanese recognize serfs as?",
+            "Is #2 higher in importance than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Serfdom-2"
+                    ]
+                ],
+                [
+                    [
+                        "Serfdom-5"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Serfdom-2"
+                    ]
+                ],
+                [
+                    [
+                        "Manorialism-17"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Serfdom-2"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Sh\u014den-8",
+                        "Sh\u014den-9"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "9cdaf15e24e108132239",
+        "term": "Papaya",
+        "description": "species of plant, use Q12330939 for the papaya (the fruit)",
+        "question": "Is the best tasting part of the papaya in the center?",
+        "answer": false,
+        "facts": [
+            "The center of a papaya contains a cluster of seeds.",
+            "Papaya seeds, while edible, are often discarded for the soft flesh that surrounds them."
+        ],
+        "decomposition": [
+            "What is usually located in the center of papayas?",
+            "Is #1 usually consumed by people when eating papayas?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Avocado-26"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Fruit pit carving-1"
+                    ],
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Papaya-3"
+                    ]
+                ],
+                [
+                    [
+                        "Papaya-30"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Papaya-3"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Papaya-21"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "53d1cebefbc79d01767b",
+        "term": "Lil Wayne",
+        "description": "American rapper, record executive and actor from Louisiana",
+        "question": "Could Lil Wayne's children ride in a Chevrolet Corvette ZR1 together?",
+        "answer": false,
+        "facts": [
+            "Lil Wayne has four children.",
+            "A Chevrolet Corvette ZR1 has 2 seats."
+        ],
+        "decomposition": [
+            "How many people can a Chevrolet Corvette ZR1 seat at a time?",
+            "How many children does Lil Wayne have?",
+            "Is #1 greater than or equal to #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Chevrolet Corvette-1"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Chevrolet Corvette-1"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Chevrolet Corvette-1"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "b633fba1a27353dca600",
+        "term": "Dancing with the Stars",
+        "description": "several international television series based on the format of the British TV series Strictly Come Dancing",
+        "question": "Is double duty an incorrect phrase for host of Dancing With The Stars?",
+        "answer": false,
+        "facts": [
+            "Double duty refers to having more than one job at the same time.",
+            "The host of Dancing WIth The Stars is Tom Bergeron.",
+            "Tom Bergeron is the host of America's Funniest Home Videos."
+        ],
+        "decomposition": [
+            "Who is the host of TV series 'Dancing WIth The Stars'?",
+            "Who hosts America's Funniest Home Videos?",
+            "Do #1 and #2 being the same fail to meet the definition of double duty?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Dancing with the Stars (American TV series)-1"
+                    ]
+                ],
+                [
+                    [
+                        "America's Funniest Home Videos-16"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Dancing with the Stars-18"
+                    ]
+                ],
+                [
+                    [
+                        "America's Funniest Home Videos-23"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Dancing with the Stars-18"
+                    ]
+                ],
+                [
+                    [
+                        "America's Funniest Home Videos-16"
+                    ]
+                ],
+                [
+                    [
+                        "Double Duty-9"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "5be68ad876e646b6e5ce",
+        "term": "Ocelot",
+        "description": "Small wild cat",
+        "question": "Could an ocelot subsist on a single bee hummingbird per day?",
+        "answer": false,
+        "facts": [
+            "An ocelot requires 600\u2013800 grams (21\u201328 oz) of food every day to satisfy its energy requirements.",
+            "Bee hummingbirds are the smallest living birds, with an average weight of around 2-3 grams."
+        ],
+        "decomposition": [
+            "How much food does an ocelot need to live per day?",
+            "How much does a bee hummingbird weigh?",
+            "Is #2 greater than or equal to #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Ocelot-25"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Bee hummingbird-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Ocelot-25"
+                    ]
+                ],
+                [
+                    [
+                        "Bee hummingbird-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Ocelot-26"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Bee hummingbird-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "4d4073f700eaf4926385",
+        "term": "Ukrainian Greek Catholic Church",
+        "description": "Byzantine Rite Eastern Catholic Church",
+        "question": "Does Ukrainian Greek Catholic Church recognize Alexander Nevsky as a saint?",
+        "answer": false,
+        "facts": [
+            "Alexander Nevsky was a Prince of Novgorod that fought against German and Swiss Invaders.",
+            "The Russian Orthodox Church named Alexander Nevsky.a saint in 1547.",
+            "The Russian Orthodox Church is a member of the Eastern Orthodox Church and has their own list of saints.",
+            "The Catholic Church and the Eastern Orthodox Church have been in a state of official schism since the East\u2013West Schism of 1054.",
+            "The Ukrainian Greek Catholic Church is a branch of the Catholic Church."
+        ],
+        "decomposition": [
+            "In which religion is Alexander Nevsky considered a saint?",
+            "What religion is the Ukrainian Greek Catholic Church a part of?",
+            "Is #1 and #2 the same?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Alexander Nevsky-2"
+                    ]
+                ],
+                [
+                    [
+                        "Ukrainian Greek Catholic Church-1"
+                    ]
+                ],
+                [
+                    [
+                        "Russian Orthodox Church-73"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Alexander Nevsky-2"
+                    ]
+                ],
+                [
+                    [
+                        "Ukrainian Greek Catholic Church-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Alexander Nevsky-2"
+                    ]
+                ],
+                [
+                    [
+                        "Ukrainian Greek Catholic Church-31"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "a585f3922f952943a387",
+        "term": "James Bond",
+        "description": "Media franchise about a British spy",
+        "question": "Was the original James Bond actor born near the Washington Monument?",
+        "answer": false,
+        "facts": [
+            "The original James Bond actor was Sean Connery.",
+            "Sean Connery was born in Scotland.",
+            "The Washington Monument is located in Washington, D.C.",
+            "Washington, D.C. and Scotland are nearly 3,500 miles apart."
+        ],
+        "decomposition": [
+            "Who originally played James Bond?",
+            "Where was #1 born?",
+            "Where is the Washington Monument located?",
+            "What is the distance between #2 and #3?",
+            "Is #4 a short enough of a distance to be considered \"close\"?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Portrayal of James Bond in film-3"
+                    ]
+                ],
+                [
+                    [
+                        "Barry Nelson-2"
+                    ]
+                ],
+                [
+                    [
+                        "Washington Monument-1"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Portrayal of James Bond in film-8"
+                    ]
+                ],
+                [
+                    [
+                        "Sean Connery-4"
+                    ]
+                ],
+                [
+                    [
+                        "Washington Monument-1"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "James Bond-28"
+                    ]
+                ],
+                [
+                    [
+                        "Sean Connery-4"
+                    ]
+                ],
+                [
+                    [
+                        "Washington Monument-1"
+                    ]
+                ],
+                [
+                    [
+                        "Atlantic Ocean-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "4caf60f6a5d8230aae85",
+        "term": "J. P. Morgan",
+        "description": "American financier, banker, philanthropist and art collector",
+        "question": "Did J. P. Morgan have healthy lungs?",
+        "answer": false,
+        "facts": [
+            "J. P. Morgan smoked dozens of cigars per day.",
+            "Smoking tobacco damages the lungs and increases the risk of lung cancer significantly."
+        ],
+        "decomposition": [
+            "What are the causes of unhealthy lungs?",
+            "Did J. P. Morgan engage in any part of #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Lung-3"
+                    ]
+                ],
+                [
+                    [
+                        "J. P. Morgan-29"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "Smoking-5"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Rheumatoid lung disease-6"
+                    ]
+                ],
+                [
+                    [
+                        "J. P. Morgan-4"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "ef8a239619bb9fc742d8",
+        "term": "Firefighter",
+        "description": "rescuer trained to extinguish hazardous fires",
+        "question": "Would Firefighters be included in a September 11th memorial?",
+        "answer": true,
+        "facts": [
+            "September 11th is remembered as a day of mourning for the lives lost during a terrorist attack in NYC.",
+            "Firefighters were among the first responders to the crisis, and many died. "
+        ],
+        "decomposition": [
+            "Who gets remembered on September 11th?",
+            "Were firefighters among #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "9/11 Tribute Museum-1"
+                    ]
+                ],
+                [
+                    [
+                        "9/11 Tribute Museum-7"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "September 11 attacks-2"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "September 11 attacks-118",
+                        "September 11 attacks-63"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "24100172ec340cbf23e2",
+        "term": "Andrew Johnson",
+        "description": "17th president of the United States",
+        "question": "Does Andrew Johnson's presidential number exceed Elagabalus's Emperor number?",
+        "answer": false,
+        "facts": [
+            "Andrew Johnson was the 17th president of the United States.",
+            "Elagabalus was the 25th Roman Emperor."
+        ],
+        "decomposition": [
+            "What number president was Andrew Johnson?",
+            "What number emperor  was Elagabalus?",
+            "Is #1 greater than #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Andrew Johnson-1"
+                    ]
+                ],
+                [
+                    [
+                        "Elagabalus-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Andrew Johnson-1"
+                    ]
+                ],
+                [
+                    [
+                        "Elagabalus-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Andrew Johnson-1"
+                    ]
+                ],
+                [
+                    [
+                        "Elagabalus-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "53aaaae99d25fa7b946b",
+        "term": "Chinese calendar",
+        "description": "Lunisolar calendar from China",
+        "question": "Are any animals in Chinese calendar Chordata?",
+        "answer": true,
+        "facts": [
+            "The chinese zodiac based on the Chinese calendar has a number of animals including dogs and pigs.",
+            "Chordata is a scientific classification of an animals phylum.",
+            "The phylum of pigs is Chordata."
+        ],
+        "decomposition": [
+            "What animals are on the Chinese calendar?",
+            "Which animals in #1 have a notochord and dorsal neural tube?",
+            "Which animals in #2 have pharyngeal slits and an endostyle at some stage of development?",
+            "Which animals in #3 have a post-anal tail?",
+            "Is there at least one animal listed in #4?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Chinese astrology-10",
+                        "Chordate-1"
+                    ]
+                ],
+                [
+                    [
+                        "Tiger-27"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Tiger-27"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Tiger-27"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Chinese zodiac-5"
+                    ]
+                ],
+                [
+                    [
+                        "Chordate-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Chordate-2"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Chordate-6"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Chinese zodiac-5"
+                    ]
+                ],
+                [
+                    [
+                        "Chinese zodiac-5",
+                        "Notochord-1"
+                    ]
+                ],
+                [
+                    [
+                        "Chinese zodiac-5",
+                        "Pharyngeal slit-1"
+                    ]
+                ],
+                [
+                    [
+                        "Chinese zodiac-5",
+                        "Chordate-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "e0e284b873700b715698",
+        "term": "Yeti",
+        "description": "Folkloric ape-like creature from Asia",
+        "question": "Would a hypothetical Yeti be towered over by Andre the Giant?",
+        "answer": true,
+        "facts": [
+            "The mythical Yeti is said to be between 200 and 400 pounds.",
+            "The mythical Yeti is said to be around 6 feet tall.",
+            "Andre the Giant was an imposing 7'4\" and 529 pounds."
+        ],
+        "decomposition": [
+            "How tall was Andre the Giant?",
+            "How tall are Yeti thought to be?",
+            "Is #2 greater than #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Andr\u00e9 the Giant-2"
+                    ]
+                ],
+                [
+                    [
+                        "Chuchuna-3"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Andr\u00e9 the Giant-2"
+                    ]
+                ],
+                [
+                    [
+                        "Expedition Everest-12",
+                        "Yeti-8"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Andre the Giant Has a Posse-2"
+                    ]
+                ],
+                [
+                    [
+                        "Yeti-1"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "b06f0eb16fe78e6a057f",
+        "term": "The Little Prince",
+        "description": "Novella by Antoine de Saint-Exup\u00e9ry",
+        "question": "Was The Little Prince's titular character allergic to flowers?",
+        "answer": false,
+        "facts": [
+            "The Little Prince tends to and cares for a rose.",
+            "The Little Prince falls in love with a rose. "
+        ],
+        "decomposition": [
+            "Who is the titular character of The Little Prince?",
+            "Does #1 avoid interacting with flowers?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "The Little Prince-1",
+                        "The Little Prince-5"
+                    ]
+                ],
+                [
+                    [
+                        "The Little Prince-11"
+                    ],
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "The Little Prince-1"
+                    ]
+                ],
+                [
+                    [
+                        "Rose-1",
+                        "The Little Prince-11"
+                    ]
+                ]
+            ],
+            [
+                [
+                    [
+                        "The Little Prince-5"
+                    ]
+                ],
+                [
+                    [
+                        "The Little Prince-16",
+                        "The Little Prince-20"
+                    ],
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "b6a5655300d16667bf62",
+        "term": "University of Pittsburgh",
+        "description": "American state-related research university located in Pittsburgh, Pennsylvania",
+        "question": "Did Millard Fillmore help to establish the University of Pittsburgh?",
+        "answer": false,
+        "facts": [
+            "The University of Pittsburgh was established in 1787.",
+            "Millard Fillmore was born in 1800."
+        ],
+        "decomposition": [
+            "When was the University of Pittsburgh established?",
+            "When was Millard Fillmore born?",
+            "Is #2 before #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "University of Pittsburgh-1"
+                    ]
+                ],
+                [
+                    [
+                        "Millard Fillmore-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "University of Pittsburgh-5"
+                    ]
+                ],
+                [
+                    [
+                        "Millard Fillmore-5"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "University of Pittsburgh-1"
+                    ]
+                ],
+                [
+                    [
+                        "Millard Fillmore-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "97de2e3114d98bc503da",
+        "term": "Northern fur seal",
+        "description": "The largest fur seal in the northern hemisphere",
+        "question": "Does Northern fur seal make good pet for six year old?",
+        "answer": false,
+        "facts": [
+            "An average six year old weighs 45 pounds.",
+            "An adult Northern fur seal can weigh up to 120 pounds.",
+            "Northern fur seals have sharp canine teeth for tearing.",
+            "Northern fur seals live near rivers to feed off of fish populations."
+        ],
+        "decomposition": [
+            "What environment do Northern fur seals thrive in?",
+            "Do six-years olds have safe access to #1?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Northern fur seal-9"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Northern fur seal-9"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Northern fur seal-9"
+                    ]
+                ],
+                [
+                    "no_evidence"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "b923b0639ec816a029f3",
+        "term": "Pear",
+        "description": "genus of plants",
+        "question": "Would a pear sink in water?",
+        "answer": false,
+        "facts": [
+            "The density of a raw pear is about 0.59 g/cm^3.",
+            "The density of water is about 1 g/cm^3.",
+            "Objects only sink if they are denser than the surrounding fluid."
+        ],
+        "decomposition": [
+            "What is the density of a pear?",
+            "What is the density of water?",
+            "Is #1 greater than #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Density-12",
+                        "Pear-8"
+                    ]
+                ],
+                [
+                    [
+                        "Density-12",
+                        "Density-5"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Water-7"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Properties of water-14"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "a5ec8f0c7508a2e73c27",
+        "term": "Noah's Ark",
+        "description": "the vessel in the Genesis flood narrative",
+        "question": "WIll Noah's Ark hypothetically sail through flooded Lincoln Tunnel?",
+        "answer": false,
+        "facts": [
+            "Scholars have determined Noah's Ark to be 75 feet wide.",
+            "Each lane of the Lincoln Tunnel is 21 feet wide."
+        ],
+        "decomposition": [
+            "What is the width of the Lincoln tunnel?",
+            "What is the width of the Noah's ark?",
+            "Is #1 greater than #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Lincoln Tunnel-5"
+                    ]
+                ],
+                [
+                    [
+                        "Cubit-1",
+                        "Noah's Ark-3"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Lincoln Tunnel-5"
+                    ]
+                ],
+                [
+                    [
+                        "Cubit-13",
+                        "Noah's Ark-3"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Lincoln Tunnel-5"
+                    ]
+                ],
+                [
+                    [
+                        "Noah's Ark-3"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "operation"
+                ]
+            ]
+        ]
+    },
+    {
+        "qid": "55ee7cf86554a4738829",
+        "term": "Haiku",
+        "description": "very short form of Japanese poetry",
+        "question": "Can you write a whole Haiku in a single tweet?",
+        "answer": true,
+        "facts": [
+            "A Haiku is a Japanese poetry in three phrases.",
+            "The average Haiku is composed of 60 to 70 characters.",
+            "A tweet is a short message sent on Twitter.",
+            "The character limit of a single tweet on Twitter is 140."
+        ],
+        "decomposition": [
+            "How many characters can be expected to be in an average haiku?",
+            "What is the current character limit of a single tweet?",
+            "Is #1 reasonably less than #2?"
+        ],
+        "evidence": [
+            [
+                [
+                    [
+                        "Haiku-2"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    [
+                        "Twitter-1"
+                    ]
+                ],
+                [
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Haiku-2"
+                    ]
+                ],
+                [
+                    [
+                        "Twitter-1"
+                    ]
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ],
+            [
+                [
+                    [
+                        "Haiku-2"
+                    ],
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence"
+                ],
+                [
+                    "no_evidence",
+                    "operation"
+                ]
+            ]
+        ]
+    }
+]

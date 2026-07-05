@@ -1,0 +1,6 @@
+ollama
+numpy
+scikit-learn
+scipy
+statsmodels
+matplotlib

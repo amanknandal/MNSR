@@ -1,0 +1,42 @@
+{
+    "Full MNSR": {
+        "baseline_accuracy": 0.5,
+        "mnsr_accuracy": 1.0,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.0,
+        "revisions": 0,
+        "backtracks": 0,
+        "memory_retrievals": 0
+    },
+    "- Validator": {
+        "baseline_accuracy": 0.5,
+        "mnsr_accuracy": 1.0,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.0,
+        "revisions": 0,
+        "backtracks": 0,
+        "memory_retrievals": 0
+    },
+    "- Memory": {
+        "baseline_accuracy": 0.5,
+        "mnsr_accuracy": 1.0,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.0,
+        "revisions": 0,
+        "backtracks": 0,
+        "memory_retrievals": 0
+    },
+    "- Controller": {
+        "baseline_accuracy": 0.5,
+        "mnsr_accuracy": 1.0,
+        "error_detection_rate": 0.0,
+        "error_fix_rate": 0.0,
+        "avg_steps": 1.0,
+        "revisions": 0,
+        "backtracks": 0,
+        "memory_retrievals": 0
+    }
+}

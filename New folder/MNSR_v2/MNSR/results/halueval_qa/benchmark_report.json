@@ -1,0 +1,16 @@
+{
+    "Total Evaluation Samples": 100,
+    "Baseline System Accuracy": 0.64,
+    "MNSR System Accuracy": 0.69,
+    "Delta Accuracy Gain": 0.05,
+    "Exact Match Rate": 0.16,
+    "Avg Baseline Latency (sec)": 63.467,
+    "Avg MNSR Latency (sec)": 83.354,
+    "Avg MNSR Confidence": 0.8881,
+    "Questions Requiring Correction": 23,
+    "Correction Rate": 0.23,
+    "Action Count [ANSWER_REPAIR]": 16,
+    "Action Count [BACKTRACK]": 5,
+    "Action Count [CONTINUE]": 77,
+    "Action Count [TERMINATE]": 2
+}

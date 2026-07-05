@@ -1,0 +1,11 @@
+{
+    "Total Evaluation Samples": 40,
+    "Baseline System Accuracy": 0.65,
+    "MNSR System Accuracy": 0.625,
+    "Delta Accuracy Gain": -0.025,
+    "Avg Baseline Latency (sec)": 19.414,
+    "Avg MNSR Latency (sec)": 24.97,
+    "Total Revision Actions": 0,
+    "Total Backtrack Actions": 0,
+    "Total Memory Retrievals": 0
+}
